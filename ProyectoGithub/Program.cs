@@ -4,7 +4,7 @@
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("tiren paro");
+            Console.WriteLine("defiendan el punto");
         }
     }
 }
