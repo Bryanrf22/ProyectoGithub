@@ -6,7 +6,7 @@
         {
             Console.WriteLine("defiendan el punto");
 
-            Cosole.ReadKey();
+            Console.ReadKey();
         }
     }
 }
